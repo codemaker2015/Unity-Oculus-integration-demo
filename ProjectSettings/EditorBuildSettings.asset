@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
+    guid: a9c41884ef0c347628dfd8a4af4a022e
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/CustomHands.unity
+    guid: a4f984fcee593d2418cc61f4a993d46d
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/HandTest.unity
+    guid: b9a31e08066d6e343a208d34ec298f09
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/HandTest_Custom.unity
+    guid: c884d076d6398b54492bcc64bbe30bf5
+  - enabled: 1
+    path: Assets/Oculus/Avatar/Samples/AvatarGallery/AvatarGallery.unity
+    guid: 7090d8e061d50cf459005277eef3e505
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/ControllerModels.unity
+    guid: 39cfe7aa0a2d46c47994d8d0308ec663
+  - enabled: 1
+    path: Assets/Oculus/Avatar/Samples/Controllers/Controllers.unity
+    guid: 2a83dd010542d2744bf59af99b4bc47c
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/ControllerTest.unity
+    guid: d56af3aeb2176e7459f753c1c2e2dd97
+  - enabled: 1
+    path: Assets/Oculus/Avatar/Samples/CrossPlatform/CrossPlatform.unity
+    guid: a95993f3779c6f842830a1f7ad81a478
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/Cubes.unity
+    guid: d920b3d2525670f4abad3d20eda3b349
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/CustomControllers.unity
+    guid: e0f49aa4174f98941b88699b5fecddc0
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/DebugUI.unity
+    guid: 34004346bd7dcbf4fbfd78d2f12e4451
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/DistanceGrab.unity
+    guid: 24f58b3f0ca02d44eaec7f50bca538f2
+  - enabled: 1
+    path: Assets/Oculus/Avatar/Samples/GripPoses/GripPoses.unity
+    guid: 697c6df5e1eddad40b634d311b0bb2e5
+  - enabled: 1
+    path: Assets/Oculus/LipSync/Scenes/LipSync_Demo.unity
+    guid: 0a5206cd53b21be4588ef635952929e9
+  - enabled: 1
+    path: Assets/Oculus/Avatar/Samples/LocalAvatar/LocalAvatar.unity
+    guid: c65ef87480e70eb43931036c9c66d08d
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/Locomotion.unity
+    guid: 024cd9dcd49bd8f46a6bea03aa8a21bb
+  - enabled: 1
+    path: Assets/Oculus/Platform/Samples/VrBoardGame/Main.unity
+    guid: 1bcd80a3e5eb15543bd65c671c26434f
+  - enabled: 1
+    path: Assets/Oculus/Platform/Samples/VrHoops/Main.unity
+    guid: 8b67239c8d8693441abb62a2ac48f571
+  - enabled: 1
+    path: Assets/Oculus/Platform/Samples/VrVoiceChat/Main.unity
+    guid: 87b4b10d999b6314da1b1d758d7e3b3d
+  - enabled: 1
+    path: Assets/Oculus/Platform/Samples/EntitlementCheck/Main.unity
+    guid: 9df623f348e176845a764b6c2e269451
+  - enabled: 1
+    path: Assets/Oculus/Platform/Samples/SimplePlatformSample/MainScene.unity
+    guid: 318d73ef645634c49839069272d9e4f4
+  - enabled: 1
+    path: Assets/Oculus/Avatar/Samples/SocialStarter/Assets/MainScene.unity
+    guid: 236a5f96528802e47a70d6e47ebd3c16
+  - enabled: 1
+    path: Assets/Oculus/Platform/Samples/NetChat/MainScene.unity
+    guid: 4a5c060329791374cba1196f7ac36ef5
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/MixedRealityCapture.unity
+    guid: 24872d3c3760f23498f41ecb019ea5cd
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/MRC.unity
+    guid: c249320cff740054f973da7f7e24bd1f
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/OVROverlay.unity
+    guid: d31b44aac77e1684d861792b23d46a8b
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/OVROverlayCanvas.unity
+    guid: af6fdd821de21814caa6187d466b6d2b
+  - enabled: 1
+    path: Assets/Oculus/VR/Editor/Scenes/OVRTransitionScene.unity
+    guid: d04724945584d684c80c6c509a8ece34
+  - enabled: 1
+    path: Assets/Oculus/Spatializer/scenes/RedBallGreenBall.unity
+    guid: 305999d68a83b7d438df1bb704b6bc06
+  - enabled: 1
+    path: Assets/Oculus/Avatar/Samples/RemoteLoopback/RemoteLoopback.unity
+    guid: aa35ff5ba76fb384d839383c84209da9
+  - enabled: 1
+    path: Assets/Oculus/Platform/Samples/RichPresenceSample/Scenes/RichPresenceDemo.unity
+    guid: 44e30fce5a7e2fd4db7c4fedc096ccf3
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/Room.unity
+    guid: 54445976c1dbf1c49bb38ba7eba558e8
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/StartScene.unity
+    guid: 071fba5195bd4b04eab8668985aa1683
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/Stereo180Video.unity
+    guid: 11cf8fa7bf3deb04db11bd170c0b4338
+  - enabled: 1
+    path: Assets/Oculus/AudioManager/Scenes/Test.unity
+    guid: 600e5d49b0a68254286400e32c53addc
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/Trivial.unity
+    guid: d8d21f2460d13554780e4af04a9e0d6e
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/UI.unity
+    guid: 1f4d3ae64a10d434db219de8b14348e1
+  - enabled: 1
+    path: Assets/Oculus/SampleFramework/Usage/WidevineVideo.unity
+    guid: 5495456b7253d31479996b9587c20927
+  - enabled: 1
+    path: Assets/Oculus/Spatializer/scenes/YellowBall.unity
+    guid: c8a4434d7a298684fae176a7751d45a7
+  m_configObjects: {}
